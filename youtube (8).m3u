@@ -1,0 +1,58 @@
+#EXTM3U
+
+# --- HABER KANALLARI ---
+#EXTINF:-1 tvg-id="sozcutv" tvg-name="Sözcü TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k_8nnMqhK5bW9G9t4LQZNT5a-_K-7m8WUm4q3x=s88" group-title="YOUTUBE HABER",Sözcü TV
+https://youtubem.metvmetv07.workers.dev/?ID=UCV6zcRug6Hqp1UX_FdyUeBg
+
+#EXTINF:-1 tvg-id="halktv" tvg-name="Halk TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nK6i3mVGRF5ZaVOqFhpMjR6KDKkrYg5LQb7LoL=s88" group-title="YOUTUBE HABER",Halk TV
+https://youtubem.metvmetv07.workers.dev/?ID=UCn6dNfiRE_Xunu7iMyvD7AA
+
+#EXTINF:-1 tvg-id="cnnturk" tvg-name="CNN TÜRK" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mB2qB4JqkP9I1xM4qT7cI5Ps7J5qL0Kqbdk4t=s88" group-title="YOUTUBE HABER",CNN TÜRK
+https://youtubem.metvmetv07.workers.dev/?ID=UCJElRTCNEmLemgirqvsW63Q
+
+#EXTINF:-1 tvg-id="haberturk" tvg-name="Habertürk" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mhQ8J5X4Kp6N2T8mL3Z7qR9cP1V5s4W6yXk8=s88" group-title="YOUTUBE HABER",Habertürk
+https://youtubem.metvmetv07.workers.dev/?ID=UC6T0L26KS1NHMPbTwI1L4Eg
+
+#EXTINF:-1 tvg-id="ahaber" tvg-name="A Haber" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lB3qR5X9Kp2N8T4mM7Z1qS6cP3V2s8W4yXk5=s88" group-title="YOUTUBE HABER",A Haber
+https://youtubem.metvmetv07.workers.dev/?ID=UCOulx_rep5O4i9y6AyDqVvw
+
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kC4qT5X8Kp3N7T5mN6Z2qT7cP4V3s7W5yXk6=s88" group-title="YOUTUBE HABER",NTV
+https://youtubem.metvmetv07.workers.dev/?ID=UC9v_68v4O_A9-U_H00Y_E9g
+
+#EXTINF:-1 tvg-id="trthaber" tvg-name="TRT Haber" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lD5qU6X7Kp4N6T6mO5Z3qU8cP5V4s6W6yXk7=s88" group-title="YOUTUBE HABER",TRT Haber
+https://youtubem.metvmetv07.workers.dev/?ID=UC3d1AdmvAP6Jq16-WpD086g
+
+#EXTINF:-1 tvg-id="tgrthaber" tvg-name="TGRT Haber" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mE6qV7X6Kp5N5T7mP4Z4qV9cP6V5s5W7yXk8=s88" group-title="YOUTUBE HABER",TGRT Haber
+https://youtubem.metvmetv07.workers.dev/?ID=UCB0aK_m66_Uf5fH2G2Fm_Vw
+
+#EXTINF:-1 tvg-id="tvnet" tvg-name="TVNET" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nF7qW8X5Kp6N4T8mQ3Z5qW0cP7V6s4W8yXk9=s88" group-title="YOUTUBE HABER",TVNET
+https://youtubem.metvmetv07.workers.dev/?ID=UC8rh34IlJTN0lDZlTwzWzjg
+
+#EXTINF:-1 tvg-id="globaltv" tvg-name="Global TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_oG8qX9X4Kp7N3T9mR2Z6qX1cP8V7s3W9yXk0=s88" group-title="YOUTUBE HABER",Global TV
+https://youtubem.metvmetv07.workers.dev/?ID=UCfJW89Xv79vA_zLwL9YtT_Q
+
+#EXTINF:-1 tvg-id="ekoltv" tvg-name="Ekol TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_pH9qY0X3Kp8N2T0mS1Z7qY2cP9V8s2W0yXk1=s88" group-title="YOUTUBE HABER",Ekol TV
+https://youtubem.metvmetv07.workers.dev/?ID=UCpE-I6YI_XvS9G_V8B59U8w
+
+# --- SPOR ---
+#EXTINF:-1 tvg-id="aspor" tvg-name="A Spor" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_qI0qZ1X2Kp9N1T1mT0Z8qZ3cP0V9s1W1yXk2=s88" group-title="YOUTUBE SPOR",A Spor
+https://youtubem.metvmetv07.workers.dev/?ID=UC9H_W9Vscz6mYAtFfH_mInA
+
+#EXTINF:-1 tvg-id="trtspor" tvg-name="TRT Spor" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_rJ1qa2X1Kp0N0T2mU9Z9qa4cP1V0s0W2yXk3=s88" group-title="YOUTUBE SPOR",TRT Spor
+https://youtubem.metvmetv07.workers.dev/?ID=UCBvY_h06X2V9mYp7mKkLz-A
+
+#EXTINF:-1 tvg-id="beinsports" tvg-name="BeIN Sports Haber" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_sK2qb3X0Kp1N9T3mV8Z0qb5cP2V1s9W3yXk4=s88" group-title="YOUTUBE SPOR",BeIN Sports Haber
+https://youtubem.metvmetv07.workers.dev/?ID=UCm9L-f7XWcT7H4_f0Y6O3Cw
+
+#EXTINF:-1 tvg-id="tv8" tvg-name="TV8" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_tL3qc4XzKp2N8T4mW7Z1qc6cP3V2s8W4yXk5=s88" group-title="YOUTUBE SPOR",TV8
+https://youtubem.metvmetv07.workers.dev/?ID=UC5fJW89Xv79vA_zLwL9YtT_Q
+
+# --- ÇOCUK ---
+#EXTINF:-1 tvg-id="trtcocuk" tvg-name="TRT Çocuk" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_uM4qd5XyKp3N7T5mX6Z2qd7cP4V3s7W5yXk6=s88" group-title="YOUTUBE ÇOCUK",TRT Çocuk
+https://youtubem.metvmetv07.workers.dev/?ID=UC3d1AdmvAP6Jq16-WpD086g
+
+#EXTINF:-1 tvg-id="minika" tvg-name="Minika Çocuk" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_vN5qe6XxKp4N6T6mY5Z3qe8cP5V4s6W6yXk7=s88" group-title="YOUTUBE ÇOCUK",Minika Çocuk
+https://youtubem.metvmetv07.workers.dev/?ID=UC6i_lP_V-tLshA9E9n6zYtA
+
+#EXTINF:-1 tvg-id="minikago" tvg-name="Minika GO" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_wO6qf7XwKp5N5T7mZ4Z4qf9cP6V5s5W7yXk8=s88" group-title="YOUTUBE ÇOCUK",Minika GO
+https://youtubem.metvmetv07.workers.dev/?ID=UCp_vL0Vv7u2rQ_pT9766YOC
